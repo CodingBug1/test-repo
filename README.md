@@ -1,4 +1,7 @@
-# test-repo
-Test repo for C2C
+# Introduction
+This is a repository created by *Dylan*
 
-*TODO* add more content
+## Usage
+Run this command to execute the application: 
+
+`python filename.py`
